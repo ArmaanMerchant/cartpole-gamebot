@@ -9,4 +9,4 @@ This is an ML application that requires training so, it can get better and bette
 
 P.S. Works on Mac, Windows and Linux.
 
-If you have any questions, you can DM me on LinkedIn <a href="https://www.linkedin.com/in/armaan-merchant-b3bba89a/">Armaan Merchant (click) </a> or email me at armaanmerchant17@gmail.com.
+If you have any questions, you can DM me on LinkedIn <a href="https://www.linkedin.com/in/armaan-merchant-b3bba89a/">Armaan Merchant</a> or email me at armaanmerchant17@gmail.com.
